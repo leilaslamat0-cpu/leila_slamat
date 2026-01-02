@@ -1,8 +1,10 @@
 # Hi, I'm Leila 👋  
 
+![Welcome Image](https://your-image-link.com/image.jpg)  
+*Welcome to my GitHub profile!*
+
 🎨 Designer • 💻 Developer • 🚀 Creative Thinker  
 
-Welcome to my GitHub profile!  
 I'm a passionate **designer and programmer** who loves building clean, modern, and functional digital experiences. I enjoy turning ideas into real projects using design + code together.
 
 ---
