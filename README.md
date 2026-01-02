@@ -1,6 +1,6 @@
 # Hi, I'm Leila 👋  
 
-![Welcome Image](https://your-image-link.com/image.jpg)  
+![Welcome Image](https://i.pinimg.com/736x/56/7b/17/567b1797e1a8623b5712c873d8308260.jpg)  
 *Welcome to my GitHub profile!*
 
 🎨 Designer • 💻 Developer • 🚀 Creative Thinker  
